@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b75b0b02-4777-4aae-8491-8d13ea97d0d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_15_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/rs2xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Electricity_Billing_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/billDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/calculateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/customerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/depositDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/generateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/meterInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/newCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/payBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/paytm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/updateInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/viewInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QlyAoVCIM9PrPAg8MLgPH38Iah" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Electricity_Billing_System/rs2xml.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="About" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity.About" />
+      <module name="Electricity_Billing_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electricity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-5.1.15-bin.jar (2)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../EBS/mysql-connector-java-5.1.15-bin.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql-connector-java-5.1.15-bin.jar (3)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../EBS/mysql-connector-java-5.1.15-bin.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rs2xml.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../EBS/rs2xml.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rs2xml.jar (2)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../EBS/rs2xml.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.About" />
+        <item itemvalue="JAR Application.rs2xml.jar (2)" />
+        <item itemvalue="JAR Application.mysql-connector-java-5.1.15-bin.jar (3)" />
+        <item itemvalue="JAR Application.mysql-connector-java-5.1.15-bin.jar (2)" />
+        <item itemvalue="JAR Application.rs2xml.jar (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75b0b02-4777-4aae-8491-8d13ea97d0d3" name="Changes" comment="" />
+      <created>1685942324199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685942324199</updated>
+    </task>
+    <servers />
+  </component>
+</project>
