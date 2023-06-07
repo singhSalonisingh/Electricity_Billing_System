@@ -32,5 +32,5 @@
 
 ## credits
 
-- <a href="https://github.com/rahul87911">RAHUL MISHRA</a> 
+- <a href="https://github.com/singhSalonisingh">SALONI SINGH</a> 
 - Thank You for visiting here.
