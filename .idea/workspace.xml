@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b75b0b02-4777-4aae-8491-8d13ea97d0d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_15_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/rs2xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Electricity_Billing_System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/Conn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/billDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/calculateBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/customerDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/depositDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/generateBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/meterInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/newCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/payBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/paytm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/signup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/updateInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/viewInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Electricity_Billing_System/rs2xml.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Electricity_Billing_System",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.About">
     <configuration name="About" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Electricity.About" />
       <module name="Electricity_Billing_System" />
